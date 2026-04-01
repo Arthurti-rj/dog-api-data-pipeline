@@ -1,7 +1,7 @@
 # 🐶 Dog API Data Pipeline
 
 Projeto simples de engenharia de dados consumindo uma API pública de raças de cães.
-
+> Projeto desenvolvido como parte da minha transição de Analytics Engineer para Data Engineer.
 ---
 
 ## 📌 Objetivo
